@@ -1,6 +1,6 @@
 # script all by @Shadow X 
 ### 🔑 = สคริปนั้นมีคีย์
-## King Legacy script
+## King Legacy script 🔑
 ```lua
 getgenv().CustomDistance = 10 -- For Bug Can't Swipe Distance(ดีเลสคริปต์)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ChopLoris/ArcHub/main/main.lua"))()
