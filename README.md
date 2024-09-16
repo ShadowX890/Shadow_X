@@ -8,7 +8,7 @@
 getgenv().CustomDistance = 10 -- For Bug Can't Swipe Distance(ดีเลสคริปต์)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ChopLoris/ArcHub/main/main.lua"))()
 ```
-## Anime Vanguards script [YouTube](https://youtu.be/O5C7U8cOpQA) [Discord](https://discord.gg/nousigi) 🔑 🟢
+## Anime Vanguards script [YouTube](https://youtu.be/O5C7U8cOpQA), [Discord script](https://discord.gg/nousigi) 🔑 🟢
 ```lua
 loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()
 ```
