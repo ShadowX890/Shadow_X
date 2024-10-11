@@ -17,3 +17,7 @@ loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TranVanBao1411/ElgatoHub/main/Loader.lua"))()
 ```
+## Doors script [YouTube](https://youtu.be/fXI-G8ljvqY)🟢
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua"))()
+```
