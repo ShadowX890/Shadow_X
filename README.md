@@ -4,7 +4,7 @@
 ### 🟡 = สคริปยังไม่อัพเดทล่าสุด(กำลังอัพเดท)
 ### 🟣 = สคริปเสี่ยงโดนแบน
 ### 🔴 = สคริปใช้งานไม่ได้
-## 🌊⚔️King Legacy script [YouTube](https://youtu.be/0vx0YFmX60Y), [discord script](discord.gg/archub) 🔑 🟡
+## 🌊⚔️King Legacy script [YouTube](https://youtu.be/0vx0YFmX60Y), [Discord Script](discord.gg/archub) 🔑 🟡
 ```lua
 getgenv().RaidUI = false -- For Hidden Raid Mode true = show and false = hidden
 getgenv().CustomDistance = 10 -- For Bug Can't Swipe Distance
