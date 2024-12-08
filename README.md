@@ -14,7 +14,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ChopLoris/ArcHub/main
 ```lua
 loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()
 ```
-## 🌊Meme sea script [YouTube](https://youtu.be/OQmD-3NkBOQ),  [Discord script](https://discord.gg/XqhvwAvj)🔑 🟢
+## 🌊Meme sea script [YouTube](https://youtu.be/OQmD-3NkBOQ),  [Discord script](https://discord.gg/XqhvwAvj)🔑 🔴
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/TranVanBao1411/ElgatoHub/main/Loader.lua"))()
 ```
