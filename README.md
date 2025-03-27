@@ -22,7 +22,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/meobeo8/elgato/a/Load
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua"))()
 ```
-## 🧟‍♂️Dead rails script auto farm bonds [YouTube]() 🔑 🟢
+## 🧟‍♂️Dead rails script auto farm bonds [YouTube](https://youtu.be/CQCfDqEV_hk) 🔑 🟢
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Marco8642/science/refs/heads/ok/dead%20rails"))()
 ```
