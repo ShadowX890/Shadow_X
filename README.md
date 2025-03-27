@@ -14,15 +14,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ChopLoris/ArcHub/main
 ```lua
 loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()
 ```
-## 🌊Meme sea script [YouTube](https://youtu.be/OQmD-3NkBOQ),  [Discord script](https://discord.gg/XqhvwAvj)🔑 🔴
+## 🌊Meme sea script [YouTube](https://youtu.be/OQmD-3NkBOQ),  [Discord script](https://discord.gg/XqhvwAvj) 🔑 🔴
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/meobeo8/elgato/a/Loader"))()
 ```
-## 👁Doors script [YouTube](https://youtu.be/fXI-G8ljvqY)🟢
+## 👁Doors script [YouTube](https://youtu.be/fXI-G8ljvqY) 🟢
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua"))()
 ```
-## 🧟‍♂️Dead rails script auto farm bonds [YouTube]()
+## 🧟‍♂️Dead rails script auto farm bonds [YouTube]() 🔑 🟢
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Marco8642/science/refs/heads/ok/dead%20rails"))()
 ```
