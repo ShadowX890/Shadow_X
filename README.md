@@ -4,6 +4,9 @@
 ### 🟡 = สคริปยังไม่อัพเดทล่าสุด(กำลังอัพเดท)
 ### 🟣 = สคริปเสี่ยงโดนแบน
 ### 🔴 = สคริปใช้งานไม่ได้
+
+# อ่าน __สคริปมีปัญหาเรื่องบัคหรือรันไม่ขึ้นไม่ต้องมาบอกผมนะครับ ถ้าอยากจะแจ้งบัคหรือปัญหาของสคริปนั้นๆไปแจ้งที่ดิสสคริปตัวนั้นๆได้เลยครับมีลิงค์ให้__
+
 ## 🌊⚔️King Legacy script [YouTube](https://youtu.be/0vx0YFmX60Y), [Discord Script](discord.gg/archub) 🔑 🟢
 ```lua
 getgenv().RaidUI = false -- For Hidden Raid Mode true = show and false = hidden
