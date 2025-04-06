@@ -21,7 +21,7 @@ loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/meobeo8/elgato/a/Loader"))()
 ```
-## 👁Doors script [YouTube](https://youtu.be/fXI-G8ljvqY) 🔑 🟢
+## 👁Doors script [YouTube](https://youtu.be/fXI-G8ljvqY) [Discord script](https://discord.gg/mspaint) 🔑 🟢
 ```lua
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/002c19202c9946e6047b0c6e0ad51f84.lua"))()
 ```
