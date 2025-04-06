@@ -21,9 +21,9 @@ loadstring(game:HttpGet("https://nousigi.com/loader.lua"))()
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/meobeo8/elgato/a/Loader"))()
 ```
-## 👁Doors script [YouTube](https://youtu.be/fXI-G8ljvqY) 🔴
+## 👁Doors script [YouTube](https://youtu.be/fXI-G8ljvqY) 🔑 🟢
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/notpoiu/mspaint/main/main.lua"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/002c19202c9946e6047b0c6e0ad51f84.lua"))()
 ```
 ## 🧟‍♂️Dead rails script auto farm bonds [YouTube](https://youtu.be/CQCfDqEV_hk) 🔑 🟢
 ```lua
